@@ -1,2 +1,8 @@
-# Jobportal
-🌐 Job Portal – A Modern Job Search Platform 📌 About The Job Portal is a web application designed to connect job seekers with potential employers. It allows users to browse job listings, apply for positions, and manage their applications seamlessly. Employers can post job openings and track applicants efficiently.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
